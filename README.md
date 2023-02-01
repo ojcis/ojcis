@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I have developed a diverse skill set in various technologies and programming languages, including PHP, MySQL, Laravel, GIT, HTML, CSS, JavaScript, and Vue.js. I have a strong understanding of object-oriented programming, MVC, and design patterns such as KISS and DRY. I am experienced in building REST APIs, performing unit and integration testing, and following best practices for software development. I am confident in my ability to utilize my technical expertise and experience to deliver successful projects.
+
+I am always seeking opportunities to learn and grow, continuously expanding my skill set.
+
+
