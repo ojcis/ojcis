@@ -21,8 +21,4 @@ I am always seeking opportunities to learn and grow and continuously expanding m
 ### Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,js,ts,html,css,vue,tailwind,bootstrap)]((https://skillicons.dev))
 
-### Development Tools:
-
-![Git Icon](icons/git.png) ![VSCode Icon](icons/vscode.png) ![PHPStorm Icon](icons/phpstorm.png)
-
 
