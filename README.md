@@ -19,6 +19,6 @@ I have developed a diverse skill set in various technologies and programming lan
 I am always seeking opportunities to learn and grow and continuously expanding my skill set.
 
 ### Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,js,ts,html,css,vue,tailwind,bootstrap)]((https://skillicons.dev))
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,js,ts,html,css,vue,tailwind)]((https://skillicons.dev))
 
 
